@@ -37,7 +37,7 @@ const Welcome = () => {
             source={require('../../assets/img/welcome2.png')}
             style={{marginVertical: 32}}
           />
-          <View style={{marginHorizontal: 95}}>
+          <View style={{marginHorizontal: 50}}>
             <Text style={styles.subtitle}>BARRIERE VAULT</Text>
           </View>
         </View>
